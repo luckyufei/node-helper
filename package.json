@@ -1,6 +1,6 @@
 {
   "name": "node-helper",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "node helper for qycloud when dev oatos product ",
   "main": "index.js",
   "scripts": {
@@ -15,6 +15,10 @@
   "author": {
     "name": "googleyufei"
   },
+  "reposity": {
+      "type": "git",
+      "url": "git://github.com/googleyufei/node-helper"
+    },
   "license": "BSD",
   "readme": "ERROR: No README data found!",
   "_id": "node-helper@0.0.1",
