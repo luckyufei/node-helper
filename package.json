@@ -1,6 +1,6 @@
 {
     "name": "node-helper",
-    "version": "0.0.2",
+    "version": "0.0.4",
     "description": "node helper for qycloud when dev oatos product ",
     "main": "index.js",
     "scripts": {

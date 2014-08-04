@@ -12,6 +12,7 @@ var tag = "[fshelper]-",
     platform = require('os').platform(),
     sevenZipCmd = (platform === 'win32' ? "7z" : "7za");
 
+exports.readdir = Q.denodeify(fs.readdir);
 exports.readFile = Q.denodeify(fs.readFile);
 exports.exists = function (filename) {
     var defer = Q.defer();
