@@ -1,0 +1,35 @@
+{
+  "name": "node-helper",
+  "version": "0.0.7",
+  "description": "node helper for qycloud when dev oatos product ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "helper",
+    "utils",
+    "util",
+    "support"
+  ],
+  "author": {
+    "name": "googleyufei"
+  },
+  "reposity": {
+    "type": "git",
+    "url": "git://github.com/googleyufei/node-helper"
+  },
+  "license": "BSD",
+  "readme": "ERROR: No README data found!",
+  "_id": "node-helper@0.0.6",
+  "_shasum": "2bb629cb1a776ab0e0e63e316513979cf3ee1313",
+  "_from": "node-helper@latest",
+  "dependencies": {
+    "lodash": "^2.4.1",
+    "mkdirp": "^0.5.0",
+    "ncp": "^0.5.1",
+    "rimraf": "^2.2.8",
+    "underscore.string": "*"
+  },
+  "_resolved": "http://registry.npm.taobao.org/node-helper/download/node-helper-0.0.6.tgz"
+}
